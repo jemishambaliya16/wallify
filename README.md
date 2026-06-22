@@ -1,20 +1,43 @@
-# Wallify - HD Wallpaper Website
+# 🖼️ Wallify
 
-A modern wallpaper website built to explore and download high-quality wallpapers.
+Modern HD Wallpaper Website built using HTML, CSS and JavaScript.
 
-## Features
-- HD wallpapers
-- Responsive design
-- Fast loading
-- Mobile friendly
+## 🚀 Live Demo
 
-## Live Demo
+Visit Website:
 https://68b448da2fd3df80f5d151e0--silver-elf-695296.netlify.app/
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+## ✨ Features
 
-## Author
+- HD Wallpapers
+- Responsive Design
+- Mobile Friendly
+- Fast Loading
+- Modern UI
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Netlify
+
+## 📸 Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Gallery
+
+![Gallery](screenshots/gallery.png)
+
+## 📈 Future Improvements
+- User Favorites
+- AI Wallpaper Suggestions
+
+## 👨‍💻 Author
+
 Jemish Ambaliya
+
+BSc IT Student | Aspiring Software Developer
