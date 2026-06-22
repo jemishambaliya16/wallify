@@ -27,7 +27,9 @@ https://68b448da2fd3df80f5d151e0--silver-elf-695296.netlify.app/
 
 ### Homepage
 
-![Homepage]("https://github.com/user-attachments/assets/ee888e95-4a10-4c10-a2df-d3047084f17d")
+![Homepage]
+<img width="1882" height="911" alt="Screenshot 2026-06-22 182401" src="https://github.com/user-attachments/assets/65a1ce93-c260-4d60-8747-0b07b1547f6f" />
+
 
 ## 📈 Future Improvements
 - User Favorites
